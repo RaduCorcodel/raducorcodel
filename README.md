@@ -136,8 +136,8 @@ Cluj-Napoca, CJ, Romania
 ---
 
 ## Honors & Awards
-- **Mitsubishi Electric President's R&D Award** | 2024
-- **MERL President's Award** | 2022
+**Mitsubishi Electric President's R&D Award** | 2024
+**MERL President's Award** | 2022
 
 ---
 
