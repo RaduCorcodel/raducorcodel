@@ -136,6 +136,8 @@ Cluj-Napoca, CJ, Romania
 ---
 
 ## Honors & Awards
+**MERL Director's Award** | 2026
+
 **Mitsubishi Electric President's R&D Award** | 2024
 
 **MERL President's Award** | 2022
@@ -146,7 +148,7 @@ Cluj-Napoca, CJ, Romania
 - **Software:** CUDA, Python (Pytorch, Tensorflow), C/C++, MuJoCo, Isaac Sim & Lab, SolidWorks, CATIA, FreeCAD, LaTeX, EagleCAD, Spice, SimTol
 - **Hardware** Electronics Design, PCB fabrication, Mechanical Design, SLA & FDM 3D Printing, Machinist: Manual and CNC Turning and Milling, Inspection
 - **Laboratory:** Microscopy, Optical CMMs, Industrial Metrology
-- **Languages:** English (Fluent), Romanian (Native), French (Conversational)
+- **Languages:** English (Fluent), Romanian (Native), French (Conversational), Morse Code / CW (18WPM)
 
 ## Projects
 ### Autonomous Legged Robot Elevator Maintenance
