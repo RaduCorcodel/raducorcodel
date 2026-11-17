@@ -11,7 +11,7 @@
 **Ph.D. in Computational Geometry** <span style="float: right">2011 – 2017</span>  
 *University of Connecticut* <span style="float: right">[uconn.edu](https://uconn.edu)</span>
 
-**B.S. in Industrial Robotics** <span style="float: right">2003 – 2008</span>  
+**B.S. & M.S. in Industrial Robotics** <span style="float: right">2003 – 2008</span>  
 *Technical University of Cluj-Napoca* <span style="float: right">[utcluj.ro](https://www.utcluj.ro)</span>
 
 ---
